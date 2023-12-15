@@ -13,7 +13,7 @@
 
 ##
 
-[![code wars](https://www.codewars.com/users/molodo1_TimoQ/badges/large?theme=light)](https://www.codewars.com/users/molodo1_TimoQ)
+[![code wars](https://www.codewars.com/users/molodo1_TimoQ/badges/small?theme=light)](https://www.codewars.com/users/molodo1_TimoQ)
 
 
 <!--
