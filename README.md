@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[link] (https://www.codewars.com/users/molodo1_TimoQ/badges/small?theme=light)
+![code wars](https://www.codewars.com/users/molodo1_TimoQ/badges/large?theme=light)
 
-<a href="https://www.codewars.com/users/molodo1_TimoQ/badges/small?theme=light">link</a>
 
 <!--
 **T1moQ/T1moQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
