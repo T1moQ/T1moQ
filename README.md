@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![code wars](https://www.codewars.com/users/molodo1_TimoQ/badges/large?theme=light)
+
+[![code wars](https://www.codewars.com/users/molodo1_TimoQ/badges/large?theme=light)](https://www.codewars.com/users/molodo1_TimoQ)
 
 
 <!--
