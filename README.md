@@ -1,6 +1,6 @@
 
 ### Hi everyone! 👋
-### I`m Frontend Developer. Here is some usefule info about me. Feel free to contact me for any cooperation :\)
+### I`m Frontend Developer. Here is some useful info about me. Feel free to contact me for any cooperation :\)
 
 ### *Languages and Tools*
 
