@@ -11,7 +11,7 @@
 [<img src="https://img.shields.io/badge/instagram-696969?style=for-the-badge&logo=instagram"/>](https://instagram.com/xtimoq?igshid=OGQ5ZDc2ODk2ZA==)
 
 ### *Business Card*
-[<img src="https://img.shields.io/badge/Card-&#128526;-696969?style=for-the-badge"/>](https://xtimoq.netlify.app/)
+[<img src="https://img.shields.io/badge/Card_&#128526-696969?style=for-the-badge"/>](https://xtimoq.netlify.app/)
 
 
 ##
