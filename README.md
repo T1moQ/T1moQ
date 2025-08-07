@@ -4,7 +4,7 @@
 
 ### *Languages and Tools*
 
-<img src="https://img.shields.io/badge/JavaScript-2F4F4F?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/TypeScript-2F4F4F?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/React-2F4F4F?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Tailwind-2F4F4F?style=for-the-badge&logo=tailwind&logoColor=764ABC"/>
+<img src="https://img.shields.io/badge/JavaScript-2F4F4F?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/TypeScript-2F4F4F?style=for-the-badge&logo=typescript"/> <img src="https://img.shields.io/badge/React-2F4F4F?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Tailwindcss-2F4F4F?style=for-the-badge&logo=tailwindcss&logoColor=764ABC"/>
 
 ### *Contacts*
 [<img src="https://img.shields.io/badge/telegram-2F4F4F?style=for-the-badge&logo=telegram"/>](https://t.me/xtimoqx)
