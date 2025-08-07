@@ -10,8 +10,8 @@
 [<img src="https://img.shields.io/badge/telegram-696969?style=for-the-badge&logo=telegram"/>](https://t.me/xtimoqx)
 [<img src="https://img.shields.io/badge/instagram-696969?style=for-the-badge&logo=instagram"/>](https://instagram.com/xtimoq?igshid=OGQ5ZDc2ODk2ZA==)
 
-### *Business Card
-[<img src="https://img.shields.io/badge/Card-696969?style=for-the-badge&logo=telegram"/>](https://xtimoq.netlify.app/)
+### *Business Card*
+[<img src="https://img.shields.io/badge/Card-&#128526;-696969?"/>](https://xtimoq.netlify.app/)
 
 
 ##
